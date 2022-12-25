@@ -162,6 +162,6 @@ async def on_message(message):
 def roll_dice():
     return random.randint(1, 6)
 
-client.run('YOUR-BOT-TOKEN-HERER')
+client.run('YOUR-BOT-TOKEN-HERE')
 
 ### Discord Utility Bot in Python written by DEFCON, GitHub: https://github.com/DEFCON-1 ###
